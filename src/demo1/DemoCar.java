@@ -9,6 +9,12 @@ public class DemoCar {
 		
 		v1.accelerate();
 		v2.accelerate();
+		v2.accelerate();
+		v2.accelerate();
+		v2.accelerate();
+		v2.accelerate();
+
+		v2.showAcceleration();
 		
 	}
 
