@@ -7,7 +7,8 @@ public class Car extends Vehicle {
 		System.out.println("Car is moving");
 		acceleration = acceleration + 10;
 	}
-
+	
+	@Override
 	public void showAcceleration(){
 		System.out.println(acceleration);
 	}
